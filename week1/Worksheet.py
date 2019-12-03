@@ -1,4 +1,4 @@
-1. Print (“Pi”)
+1. Print ("Pi")
 
 2. With # before
 
@@ -30,7 +30,7 @@
 
 16. Don’t know
 
-17. /‘ and /“ a quote that allows you to see the ‘ or “ the text
+17. /‘ and /"" a quote that allows you to see the ‘ or "" the text
 
 18.   \n next line and /“ double quote
 
@@ -42,6 +42,6 @@
 
 22. 3
 
-23. user_name = input("Enter your name:”)
+23. user_name = input("Enter your name:")
 
 value = int(input("Enter your age"))
