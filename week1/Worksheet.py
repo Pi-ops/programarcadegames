@@ -1,4 +1,4 @@
-1. Print ("Pi")
+1. print("Pi")
 
 2. With # before
 
